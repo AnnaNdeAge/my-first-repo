@@ -1,4 +1,4 @@
 This is my first website :)
 
 
-repository=folder/project
+My name is Anna and I love skiing!
